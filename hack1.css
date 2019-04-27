@@ -23,7 +23,13 @@
   background-size: cover;
 }
 
-
+body{
+background-image: url("images/img1.jpg");
+background-position: center;
+background-size: cover;
+font-family: Ubuntu;
+color: White;
+}
 #content {
 text-align: center;
 padding-top: 25%;
