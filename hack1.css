@@ -23,6 +23,12 @@
   background-size: cover;
 }
 
+.carousel {
+  width:auto;
+  height:auto;
+}
+
+
 body{
 background-position: center;
 background-size: cover;
