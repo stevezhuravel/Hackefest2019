@@ -15,11 +15,7 @@ body, html {
 }
 .bg {
   /* The image used */
-<<<<<<< HEAD
-  background-image: "images/img1.jpg";
-=======
   background-image: url("images/img1.jpg");
->>>>>>> 8310a8715ba3bbf66e9006f056c6c592a66cd186
 
   /* Full height */
   height: 100%;
@@ -29,3 +25,56 @@ body, html {
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+
+#content {
+
+text-align: center;
+padding-top: 25%;
+text-shadow: 0px 4px 3px rgba(0, 0, 0, 0.4);,
+             0px 8px 13px rgba(0,0,0,0.5),
+             0px 18px 23px rgba(0,0,0,0.8);
+
+}
+
+h1 {
+
+  font-weight: 700;
+  font-size: 5em;
+}
+
+html{
+
+  height: 100%;
+}
+
+hr{
+width: 400px;
+border-top: 1px solid #f8f8f8;
+border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+
+#map {
+  height: 400px;
+  width: 100%;
+ }
+
+ .cardcollection{
+   margin: auto;
+  float: center;
+  width: 200px;
+  text-decoration-color: black;
+  padding: 10px;
+ }
+
+ p{
+   color: black;
+ }
+
+ h4{
+   color: black;
+ }
+
+ .card{
+   text-align: center;
+ }
