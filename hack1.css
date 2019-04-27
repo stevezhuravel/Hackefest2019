@@ -15,7 +15,11 @@ body, html {
 }
 .bg {
   /* The image used */
+<<<<<<< HEAD
   background-image: "images/img1.jpg";
+=======
+  background-image: url("images/img1.jpg");
+>>>>>>> 8310a8715ba3bbf66e9006f056c6c592a66cd186
 
   /* Full height */
   height: 100%;
