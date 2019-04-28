@@ -1,7 +1,24 @@
 
 html {
-  background-image: url("image/img6.jpg");
+  background-image:url("images/img6.jpg");
 }
+
+.bg {
+  /* The image used */
+  background-image: url("images/img6.jpg");
+
+  /* Half height */
+  height: 50%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  /* Opacity*/
+  opacity: 0.7;
+}
+
 
 body {
   font-family: "Poppins", sans-serif;
