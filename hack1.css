@@ -22,7 +22,7 @@
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  
+
   /* Opacity*/
   opacity: 0.7;
 }
@@ -93,3 +93,17 @@ border-bottom: 1px solid rgba(0,0,0,0.2);
  .card{
    text-align: center;
  }
+
+ .carousel {
+
+height:360px;
+
+}
+
+.carousel-inner &gt; .item &gt; img {
+
+height:360px;
+
+object-fit: contain;
+
+}
